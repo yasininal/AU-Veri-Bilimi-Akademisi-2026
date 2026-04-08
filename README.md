@@ -18,4 +18,3 @@ Bu depo, 2026 yılı Veri Bilimi ve Makine Öğrenmesi Mentorluk Programı'nın 
 
 Programı başarıyla tamamlayan katılımcılar:
 - Gelecek yılın **Proje Ekibinde** yer alma şansı yakalar.
-- **Case Study sunumlarında** aktif görev alabilirler.
