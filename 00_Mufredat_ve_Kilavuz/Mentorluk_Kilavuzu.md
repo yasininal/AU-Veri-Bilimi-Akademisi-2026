@@ -4,7 +4,7 @@ Veri Bilimi topluluğumuzun 10 haftalık yoğun "Python ve Makine Öğrenmesi Bo
 
 ## Program İşleyişi
 1. Her hafta eğitimden belirlenen modülleri izleyecek ve kendi bilgisayarınızda uygulayacaksınız.
-2. Sürecinizi ve gelişiminizi [özel bir Excel tablosu üzerinden](https://docs.google.com/spreadsheets/d/1RenvYhfVmi4zWIHqjgsxBM78dB1qmi6Q/edit?usp=sharing) takip edeceğiz.
+2. Sürecinizi ve gelişiminizi [özel bir Excel tablosu üzerinden](https://docs.google.com/spreadsheets/d/1l8QkY4XM4Gvvu95rVP2xeBZDbvtcIIb1/edit?usp=sharing&ouid=116002235258411028119&rtpof=true&sd=true) takip edeceğiz.
 3. Çalışmalarınızı bir Ar-Ge mühendisi gibi GitHub üzerinden yürütecek ve her hafta repomuza Pull Request (PR) açarak teslim edeceksiniz.
 4. Haftalık düzenli toplantılarımızda kod incelemesi (code review) ve durum değerlendirmesi yapacağız.
 

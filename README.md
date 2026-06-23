@@ -15,7 +15,7 @@ Bu depo, 2026 yılı Veri Bilimi ve Makine Öğrenmesi Mentorluk Programı'nın 
 
 ## Mentor Takip Tablosu
 Program ilerleyişini ve ödev durumlarını aşağıdaki tablo üzerinden takip edebilirsiniz:
-👉 [Veri Bilimi Mentorluk Takip Tablosu](https://docs.google.com/spreadsheets/d/1RenvYhfVmi4zWIHqjgsxBM78dB1qmi6Q/edit?usp=sharing)
+👉 [Veri Bilimi Mentorluk Takip Tablosu](https://docs.google.com/spreadsheets/d/1l8QkY4XM4Gvvu95rVP2xeBZDbvtcIIb1/edit?usp=sharing&ouid=116002235258411028119&rtpof=true&sd=true)
 
 ## Motivasyon ve Hedefler
 
